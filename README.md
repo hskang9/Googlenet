@@ -4,9 +4,9 @@ Googlenet Implementation on DL frameworks
 GoogLeNet is the network architecture that were created by the researchers at Google. As part of an ensemble of other trained similar models, it achieved a top-5 error rate of 6.67% on the [2014 ImageNet classification challenge](http://image-net.org/challenges/LSVRC/2014/results#clsloc).
 
 
-input_shape: (224,224,3)
+## input_shape: (224,224,3)
 
-output: 1000 classes
+## output: 1000 classes
 
 
 ---
