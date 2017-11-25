@@ -15,10 +15,10 @@ output: 1000 classes
 ![Googlenet Components](/doc/googlenet_components.png)
 
 Googlenet consists of 4 components:
-- stem
-- inception modules
-- auxiliary classifiers
-- output classifier
+- stem layer for feature extraction
+- inception modules(which its inspiration comes from the meme 'we need to go deeper')
+- auxiliary classifiers for ensemble learning
+- output classifier for final classification
 
 ![Googlenet incarnation](/doc/architecture.png)
 
