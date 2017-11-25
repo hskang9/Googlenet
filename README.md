@@ -44,3 +44,10 @@ Here are the parameters for each layer.
 - [ ] Test the model's performance
 - [ ] Implement it on Tensorflow
 - [ ] Visualize the test result
+
+
+## Contribution
+---
+
+Contributions are welcome!
+Just fork the repository and make PRs!
